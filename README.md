@@ -1,7 +1,7 @@
 ##### Hi there 👋
 
 ## I am Sudev SS
-#### I am a UI Designer, Web Dev, Chai enthuasiast and Guitar lover 😁
+#### I am a UI Designer, Web Dev, Chai enthusiast and Guitar lover 😁
 <!--
 **GameGodS3/GameGodS3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
