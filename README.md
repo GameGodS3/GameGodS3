@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on [DropPoint](https://github.com/GameGodS3/DropPoint) (Hint: Check it out 😉)
-- 🌱 I’m currently learning Electron and ReactJS
+- 🌱 I’m currently learning NextJS and Solidity
 - 👯 I’m looking to collaborate on Web Projects
 - 💬 Ask me about UI Designing, Web Development, Windows, Linux, etc.
 - 📫 How to reach me: [@card.shark.11](https://instagram.com/card.shark.11) on Instagram and sudev@cet.ac.in on Email
