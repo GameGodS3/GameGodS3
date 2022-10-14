@@ -16,9 +16,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about UI Designing, Web Development, Windows, Linux, etc.
 - 📫 How to reach me: [@card.shark.11](https://instagram.com/card.shark.11) on Instagram and sudev@cet.ac.in on Email
 - 😄 Pronouns: He/Him
-- 💕 How to support me:
-    <p>
-      <a href="https://www.buymeacoffee.com/sudev">
-        <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png">
-      </a>
-    </p>
